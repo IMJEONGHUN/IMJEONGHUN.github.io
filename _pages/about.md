@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/Lv3.jpg"
+  image: "/images/casino.jpg"
 ---
 
 ------------------------------------
