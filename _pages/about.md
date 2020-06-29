@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /소개/
+permalink: /about/
 header:
   image: "/images/LV3.jpg"
 ---
