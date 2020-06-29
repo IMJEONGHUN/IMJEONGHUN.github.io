@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "팀 소개"
+  - title: "TEAM"
     url: /Crash-Landing/
-  - title: "게임 소개"
+  - title: "PROJECT"
     url: /TEXAS HOLDEM/  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

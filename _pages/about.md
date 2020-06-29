@@ -1,5 +1,5 @@
 ---
-title: "팀 소개"
+title: "TEAM"
 permalink: /Crash-Landing/
 header:
   image: "/images/LV3.jpg"

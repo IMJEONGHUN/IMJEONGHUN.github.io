@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /게임 소개/
+permalink: /PROJECT/
 title: "TEXAS HOLDEM"
 author_profile: true
 header:
