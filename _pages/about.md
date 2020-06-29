@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: /about/
+title: "팀 소개"
+permalink: /Crash-Landing/
 header:
   image: "/images/LV3.jpg"
 ---
