@@ -2,8 +2,6 @@
 main:
   - title: "TEAM"
     url: /Crash-Landing/
-  - title: "PROJECT"
-    url: /TEXAS HOLDEM/  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
